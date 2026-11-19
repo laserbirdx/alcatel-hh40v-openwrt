@@ -2,6 +2,8 @@
 
 # OpenWrt on Alcatel HH40V
 
+![OpenWrt: 25.12.5 (ath79)](https://img.shields.io/badge/OpenWrt-25.12.5%20(ath79)-00B5E2?logo=openwrt&logoColor=white) ![SoC: Qualcomm QCA9531](https://img.shields.io/badge/SoC-Qualcomm%20QCA9531-3253DC?logo=qualcomm&logoColor=white) ![UART: Not Required (Ethernet)](https://img.shields.io/badge/UART-Not%20Required%20(Ethernet)-brightgreen) ![license: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
+
 Step-by-step guide for installing official OpenWrt 25.12.5 on the Alcatel HH40V 4G LTE
 router, **without opening the case or using a serial cable**. Everything is done over
 Ethernet: the stock web UI's config backup is modified to enable SSH, then OpenWrt is
